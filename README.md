@@ -2,6 +2,8 @@ Responsive Food Menu Website
 This is a responsive food menu website built using HTML, CSS, and JavaScript. The design adapts to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices. The website features a clean layout, showcasing a variety of food items in a structured menu format, making it easy for users to browse and select dishes.
 
 Live link : https://bit.ly/4gsLwUJ
+
+
 Features
 Responsive Design: The layout adjusts dynamically across different devices (desktop, tablet, and mobile).
 Interactive Menu: The food items are presented in a user-friendly format with clear categories for easy navigation.
